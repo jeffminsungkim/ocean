@@ -23,21 +23,21 @@ COUNTRY
 
 Field                       | Type
 ----------------------------|----------------------------
-CODE                        | NUMBER
-NAME                        | VARCHAR2(17)
-CONTINENT                   | VARCHAR2(3)
-REGION                      | VARCHAR2(20)
+CODE                        | VARCHAR2(3)
+NAME                        | VARCHAR2(44)
+CONTINENT                   | VARCHAR2(13)
+REGION                      | VARCHAR2(25)
 SURFACEAREA                 | NUMBER
-INDEPYEAR                   | VARCHAR2(20)
+INDEPYEAR                   | VARCHAR2(5)
 POPULATION                  | NUMBER
-LIFEEXPECTANCY              | VARCHAR2(20)
+LIFEEXPECTANCY              | VARCHAR2(4)
 GNP                         | NUMBER
-GNPOLD                      | VARCHAR2(20)
-LOCALNAME                   | VARCHAR2(20)
-GOVERNMENTFORM              | VARCHAR2(20)
-HEADOFSTATE                 | VARCHAR2(20)
-CAPITAL                     | VARCHAR2(20)
-CODE2                       | VARCHAR2(20)
+GNPOLD                      | VARCHAR2(9)
+LOCALNAME                   | VARCHAR2(44)
+GOVERNMENTFORM              | VARCHAR2(44)
+HEADOFSTATE                 | VARCHAR2(32)
+CAPITAL                     | VARCHAR2(4)
+CODE2                       | VARCHAR2(2)
 
 */
 
