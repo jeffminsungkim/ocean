@@ -5,4 +5,6 @@
 To me, learning a new knowledge in programming is like standing against unidentified creatures living in the  **deep ocean**.
 I am pretty much excited about spending my time for learning awesome stuff that I do not even know before, but it also gives me a slight headache from time to time.
 
-> [Hacker Rank](https://www.hackerrank.com/) problems also included.
+> [Hacker Rank](https://www.hackerrank.com/)
+
+> [Codility](https://codility.com/programmers/) problems also included.
