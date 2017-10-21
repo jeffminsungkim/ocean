@@ -7,11 +7,10 @@ function solution(A) {
     var unpairedValue = 0;
     for (var i = 0; i < oddArray.length; i++) {
         var oddKey = oddArray[i];
-        if (m.has(oddKey)) {
+        if (m.has(oddKey))
             m.delete(oddKey);
-        }else {
+        else
             m.set(oddKey, 1);
-        }
     }
     for (var key of m.keys()) {
         unpairedValue = key;
