@@ -12,9 +12,9 @@ function solution(A) {
         else
             m.set(oddKey, 1);
     }
-    for (var key of m.keys()) {
+    for (var key of m.keys())
         unpairedValue = key;
-    }
+
     return unpairedValue;
 }
 
