@@ -3,7 +3,7 @@
 ## Brief Introduction
 
 To me, learning a new knowledge in programming is like standing against unidentified creatures living in the  **deep ocean**.
-I am pretty much excited about spending my time for learning awesome stuff that I do not even know before, but it also gives me a slight headache from time to time.
+I am pretty much excited about spending my time for learning awesome stuff that I do not even know before, but it also gives me a slight headache from time to time. :man_technologist:
 
 ---
 
@@ -88,7 +88,7 @@ I am pretty much excited about spending my time for learning awesome stuff that 
 
 **[:rocket: Back to HackerRank Challenges](#hackerrank-challenges)**
 
-**[:rocket: GOTO TOP](#A-list-of-SOLVED-Problems)**
+**[:rocket: GOTO TOP](#solved-problems)**
 
 ---
 
