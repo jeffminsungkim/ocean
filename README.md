@@ -1,35 +1,57 @@
-# ocean ![Language](https://img.shields.io/badge/language-Python%20%2F%20JavaScript-ff69b4.svg) [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/jeffminsungkim/ocean/blob/master/LICENSE)
+# ocean :ocean: ![Language](https://img.shields.io/badge/language-Python%20%2F%20JavaScript-ff69b4.svg) [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/jeffminsungkim/ocean/blob/master/LICENSE)
 
 ## Brief Introduction
 
 To me, learning a new knowledge in programming is like standing against unidentified creatures living in the  **deep ocean**.
-I am pretty much excited about spending my time for learning awesome stuff that I do not even know before, but it also gives me a slight headache from time to time. :man_technologist:
+I am pretty much excited about spending my time for learning awesome stuff that I do not even know before, but it also gives me a slight headache from time to time. :satisfied:
+
+**This repository consists of problem-solving exercises and new languages practices.** If there's any mistake or have a better solution for code, feel free to share your thoughts and may open the [issues](https://github.com/jeffminsungkim/ocean/issues).
+
+## Table of Contents
+
+1. **[Programming Languages](#programming-languages)**
+    - **[Python](#python)**
+    - **[JavaScript](#javascript)**
+
+1. **[SOLVED Problems](#solved-problems)**
+    - **[Codility Lessons](#codility-lessons)**
+    - **[HackerRank Challenges](#hackerrank-challenges)**
+
+1. **[References](#references)**
+    - **[Competitive Programming Challenges](#competitive-programming-challenges)**
 
 ---
 
-## Competitive programming challenges
+## Programming Languages
 
-+ [GOTO Hacker Rank](https://www.hackerrank.com/)
-+ [GOTO Codility](https://codility.com/programmers/)
+#### Python
+
++ [LinkedList](https://github.com/jeffminsungkim/ocean/blob/master/languages/python/linkedlist.py) 
+
+**[:rocket: Back to Python](#python)**
+
+#### JavaScript
+
++ [LinkedList](https://github.com/jeffminsungkim/ocean/blob/master/languages/javascript/linkedlist.js)
++ [Stack](https://github.com/jeffminsungkim/ocean/blob/master/languages/javascript/stack.js)
+
+**[:rocket: Back to JavaScript](#javascript)**
+
+**[:rocket: Back to Programming Languages](#programming-languages)**
 
 ---
 
 ## **SOLVED** Problems
-
-1. **[Codility Lessons](#codility-lessons)**
-1. **[HackerRank Challenges](#hackerrank-challenges)**
-
----
 
 #### Codility Lessons
 
 + [BinaryGap](https://github.com/jeffminsungkim/ocean/blob/master/codility/iterations/binary-gap.js)
 + [OddOccurrencesInArray](https://github.com/jeffminsungkim/ocean/blob/master/codility/arrays/odd-occurrences-in-array.js)
 + [CyclicRotation](https://github.com/jeffminsungkim/ocean/blob/master/codility/arrays/cyclic-rotation.js)
++ [PermMissingElem](https://github.com/jeffminsungkim/ocean/blob/master/codility/time-complexity/perm-missing-elem.js)
++ [PermCheck](https://github.com/jeffminsungkim/ocean/blob/master/codility/counting-elements/permcheck.js)
 
 **[:rocket: Back to Codility Lessons](#codility-lessons)**
-
----
 
 #### HackerRank Challenges
 
@@ -88,7 +110,18 @@ I am pretty much excited about spending my time for learning awesome stuff that 
 
 **[:rocket: Back to HackerRank Challenges](#hackerrank-challenges)**
 
-**[:rocket: GOTO TOP](#solved-problems)**
+**[:rocket: GOTO SOLVED Problems](#solved-problems)**
+
+---
+
+## References
+
+#### Competitive Programming Challenges
+
++ [HackerRank](https://www.hackerrank.com/)
++ [Codility](https://codility.com/programmers/)
+
+**[:rocket: GOTO Table of Contents](#table-of-contents)**
 
 ---
 
