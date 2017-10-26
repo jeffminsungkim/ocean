@@ -1,5 +1,5 @@
-//Details: https://codility.com/programmers/lessons/4-counting_elements/max_counters/
-//Defficulty: MEDIUM
+// Details: https://codility.com/programmers/lessons/4-counting_elements/max_counters/
+// Defficulty: MEDIUM
 
 /*
 You are given N counters, initially set to 0, and you have two possible operations on them:

@@ -1,4 +1,4 @@
-//Details: https://codility.com/programmers/lessons/4-counting_elements/frog_river_one/
+// Details: https://codility.com/programmers/lessons/4-counting_elements/frog_river_one/
 
 // Given a non-empty zero-indexed array A consisting of N integers and integer X, returns the earliest time when the frog can jump to the other side of the river.
 // If the frog is never able to jump to the other side of the river, the function should return −1.
