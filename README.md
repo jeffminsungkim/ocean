@@ -7,6 +7,8 @@ I am pretty much excited about spending my time for learning awesome stuff that 
 
 **This repository consists of problem-solving exercises and new languages practices.** If there's any mistake or have a better solution for code, feel free to share your thoughts and may open the [issues](https://github.com/jeffminsungkim/ocean/issues).
 
+---
+
 ## Table of Contents
 
 1. **[Programming Languages](#programming-languages)**
