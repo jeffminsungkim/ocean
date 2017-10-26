@@ -1,4 +1,4 @@
-# ocean :ocean: ![Language](https://img.shields.io/badge/language-Python%20%2F%20JavaScript-ff69b4.svg) [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/jeffminsungkim/ocean/blob/master/LICENSE)
+# ocean :ocean: ![Language](https://img.shields.io/badge/language-Python%20%2F%20JavaScript-ff69b4.svg?style=flat-square) [![GitHub last commit](https://img.shields.io/github/last-commit/jeffminsungkim/ocean.svg?style=flat-square)]() [![License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://github.com/jeffminsungkim/ocean/blob/master/LICENSE) [![Author](https://img.shields.io/badge/author-JeffMinsungKim-orange.svg?style=flat-square)](https://github.com/jeffminsungkim) 
 
 ## Brief Introduction
 
@@ -49,7 +49,10 @@ I am pretty much excited about spending my time for learning awesome stuff that 
 + [OddOccurrencesInArray](https://github.com/jeffminsungkim/ocean/blob/master/codility/arrays/odd-occurrences-in-array.js)
 + [CyclicRotation](https://github.com/jeffminsungkim/ocean/blob/master/codility/arrays/cyclic-rotation.js)
 + [PermMissingElem](https://github.com/jeffminsungkim/ocean/blob/master/codility/time-complexity/perm-missing-elem.js)
++ [TapeEquilibrium](https://github.com/jeffminsungkim/ocean/blob/master/codility/time-complexity/tape-equilibrium.js)
++ [FrogJmp](https://github.com/jeffminsungkim/ocean/blob/master/codility/time-complexity/frogjmp.js)
 + [PermCheck](https://github.com/jeffminsungkim/ocean/blob/master/codility/counting-elements/permcheck.js)
++ [FrogRiverOne](https://github.com/jeffminsungkim/ocean/blob/master/codility/counting-elements/frog-river-one.js)
 
 **[:rocket: Back to Codility Lessons](#codility-lessons)**
 
