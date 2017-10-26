@@ -1,4 +1,4 @@
-# ocean :ocean: ![Language](https://img.shields.io/badge/language-Python%20%2F%20JavaScript-ff69b4.svg?style=flat-square) [![GitHub last commit](https://img.shields.io/github/last-commit/jeffminsungkim/ocean.svg?style=flat-square)](https://github.com/jeffminsungkim/ocean/commits/master) [![License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://github.com/jeffminsungkim/ocean/blob/master/LICENSE) [![Author](https://img.shields.io/badge/author-JeffMinsungKim-orange.svg?style=flat-square)](https://github.com/jeffminsungkim) 
+# ocean :ocean: ![Language](https://img.shields.io/badge/language-Python%20%2F%20JavaScript-ff69b4.svg?style=flat-square) [![GitHub last commit](https://img.shields.io/github/last-commit/jeffminsungkim/ocean.svg?style=flat-square)](https://github.com/jeffminsungkim/ocean/commits/master) [![GitHub issues by-label](https://img.shields.io/github/issues/badges/shields/enhancement.svg?style=flat-square)](https://github.com/jeffminsungkim/ocean/labels/enhancement) [![License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://github.com/jeffminsungkim/ocean/blob/master/LICENSE) [![Author](https://img.shields.io/badge/author-JeffMinsungKim-orange.svg?style=flat-square)](https://github.com/jeffminsungkim) 
 
 ## Brief Introduction
 
@@ -53,6 +53,7 @@ I am pretty much excited about spending my time for learning awesome stuff that 
 + [FrogJmp](https://github.com/jeffminsungkim/ocean/blob/master/codility/time-complexity/frogjmp.js)
 + [PermCheck](https://github.com/jeffminsungkim/ocean/blob/master/codility/counting-elements/permcheck.js)
 + [FrogRiverOne](https://github.com/jeffminsungkim/ocean/blob/master/codility/counting-elements/frog-river-one.js)
++ [MissingInteger](https://github.com/jeffminsungkim/ocean/blob/master/codility/counting-elements/missing-integer.js)
 
 **[:rocket: Back to Codility Lessons](#codility-lessons)**
 
