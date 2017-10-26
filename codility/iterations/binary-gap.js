@@ -13,7 +13,7 @@ function solution(N) {
     var longestGap = 0;
     var indexOfOnes = [];
     var binary = N.toString(2);
-    if (isZeroExistsOrNot == false) {
+    if (isZeroExistsOrNot === false) {
         return longestGap;
     }else {
         for (var i = 0; i < binary.length; i++) {
@@ -51,7 +51,7 @@ class BinrayGap {
 
     solution(N) {
         const binary = N.toString(2);
-        if (this.isZeroExistsOrNot == false) {
+        if (this.isZeroExistsOrNot === false) {
             return this.longestGap;
         }else {
             for (let i = 0; i < binary.length; i++) {
