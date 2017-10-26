@@ -1,7 +1,5 @@
 // Details: https://codility.com/programmers/lessons/1-iterations/binary_gap/
 
-// ES5
-
 function isZeroExistsOrNot(binary) {
     return binary.includes(0);
 }
