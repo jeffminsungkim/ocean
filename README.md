@@ -60,7 +60,7 @@ I spend my time for learning awesome stuff that I do not even know before. Even 
 + [FrogRiverOne](https://github.com/jeffminsungkim/ocean/blob/master/codility/counting-elements/frog-river-one.js)
 + [MissingInteger](https://github.com/jeffminsungkim/ocean/blob/master/codility/counting-elements/missing-integer.js)
 + [MaxCounters](https://github.com/jeffminsungkim/ocean/blob/master/codility/counting-elements/maxcounters.js)
-+ [CountDiv](https://github.com/jeffminsungkim/ocean/blob/master/codility/counting-elements/countdiv.js)
++ [CountDiv](https://github.com/jeffminsungkim/ocean/blob/master/codility/prefix-sums/countdiv.js)
 
 **[:rocket: Back to Codility Lessons](#codility-lessons)**
 
