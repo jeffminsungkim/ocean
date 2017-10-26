@@ -8,7 +8,7 @@ To me, learning a new knowledge in programming is like standing against unidenti
 
 I spend my time for learning awesome stuff that I do not even know before. Even though it gives me a slight headache from time to time, :satisfied: I find genuine pleasure in thriving beyond the challenges I face from solving problems.
 
-**This repository consists of problem-solving exercises and new languages practices.** If there's any mistake or have a better solution for code, feel free to share your thoughts and may open the [issues](https://github.com/jeffminsungkim/ocean/issues).
+**This repository consists of problem-solving exercises and new languages practices.** If there's any mistake or have a better solution for code, feel free to share your thoughts and may open the [issues](https://github.com/jeffminsungkim/ocean/issues). <a href="http://www.sherv.net/"><img alt="SOS Hand" width=31 height=41 src="http://www.sherv.net/cm/emoticons/hand-gestures/sos-hand-smiley-emoticon.gif"></a>
 
 ---
 
