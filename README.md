@@ -2,8 +2,11 @@
 
 ## Brief Introduction
 
+**Welcome** to my personal repository <a href="http://www.sherv.net/"><img alt="Quotation Sign" width=30 height=30 src="http://www.sherv.net/cm/emoticons/hand-gestures/quotation-sign-smiley-emoticon.gif"></a>**ocean**<a href="http://www.sherv.net/"><img alt="Quotation Sign" width=30 height=30 src="http://www.sherv.net/cm/emoticons/hand-gestures/quotation-sign-smiley-emoticon.gif"></a>
+
 To me, learning a new knowledge in programming is like standing against unidentified creatures living in the  **deep ocean**.
-I am pretty much excited about spending my time for learning awesome stuff that I do not even know before, but it also gives me a slight headache from time to time. :satisfied:
+
+I spend my time for learning awesome stuff that I do not even know before. Even though it gives me a slight headache from time to time, :satisfied: I find genuine pleasure in thriving beyond the challenges I face from solving problems.
 
 **This repository consists of problem-solving exercises and new languages practices.** If there's any mistake or have a better solution for code, feel free to share your thoughts and may open the [issues](https://github.com/jeffminsungkim/ocean/issues).
 
