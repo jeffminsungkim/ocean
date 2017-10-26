@@ -19,7 +19,6 @@ function solution(X, A) {
 
         if (totalSeconds == arithmeticSeq)
             return i;
-
     }
     return -1;
 }
