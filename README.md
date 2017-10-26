@@ -59,6 +59,7 @@ I spend my time for learning awesome stuff that I do not even know before. Even 
 + [PermCheck](https://github.com/jeffminsungkim/ocean/blob/master/codility/counting-elements/permcheck.js)
 + [FrogRiverOne](https://github.com/jeffminsungkim/ocean/blob/master/codility/counting-elements/frog-river-one.js)
 + [MissingInteger](https://github.com/jeffminsungkim/ocean/blob/master/codility/counting-elements/missing-integer.js)
++ [MaxCounters](https://github.com/jeffminsungkim/ocean/blob/master/codility/counting-elements/maxcounters.js)
 
 **[:rocket: Back to Codility Lessons](#codility-lessons)**
 
