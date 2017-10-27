@@ -6,7 +6,7 @@
 
 To me, learning a new knowledge in programming is like standing against unidentified creatures living in the  **deep ocean**.
 
-I spend my time for learning awesome stuff that I do not even know before. Even though it gives me a slight headache from time to time, :satisfied: I find genuine pleasure in thriving beyond the challenges I face from solving problems.
+I spend my time for learning awesome stuff that I do not even know before. Even though it gives me a slight headache from time to time,:satisfied: I find genuine pleasure in thriving beyond the challenges I face from solving problems.
 
 **This repository consists of problem-solving exercises and new languages practices.** If there's any mistake or have a better solution for code, feel free to share your thoughts and may open the [issues](https://github.com/jeffminsungkim/ocean/issues). <a href="http://www.sherv.net/"><img alt="SOS Hand" width=31 height=41 src="http://www.sherv.net/cm/emoticons/hand-gestures/sos-hand-smiley-emoticon.gif"></a>
 
@@ -31,14 +31,24 @@ I spend my time for learning awesome stuff that I do not even know before. Even 
 
 #### Python
 
-+ [LinkedList](https://github.com/jeffminsungkim/ocean/blob/master/languages/python/linkedlist.py) 
+###### Data Structures
+
++ [LinkedList](https://github.com/jeffminsungkim/ocean/blob/master/languages/python/datastructures/linkedlist.py) 
+
+###### Algorithms
+Needs to be implemented.
 
 **[:rocket: Back to Python](#python)**
 
 #### JavaScript
 
-+ [LinkedList](https://github.com/jeffminsungkim/ocean/blob/master/languages/javascript/linkedlist.js)
-+ [Stack](https://github.com/jeffminsungkim/ocean/blob/master/languages/javascript/stack.js)
+###### Data Structures
+
++ [LinkedList](https://github.com/jeffminsungkim/ocean/blob/master/languages/javascript/datastructures/linkedlist.js)
++ [Stack](https://github.com/jeffminsungkim/ocean/blob/master/languages/javascript/datastructures/stack.js)
+
+###### Algorithms
+Needs to be implemented.
 
 **[:rocket: Back to JavaScript](#javascript)**
 
