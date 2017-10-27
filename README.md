@@ -71,6 +71,7 @@ Needs to be implemented.
 + [MissingInteger](https://github.com/jeffminsungkim/ocean/blob/master/codility/counting-elements/missing-integer.js)
 + [MaxCounters](https://github.com/jeffminsungkim/ocean/blob/master/codility/counting-elements/maxcounters.js)
 + [CountDiv](https://github.com/jeffminsungkim/ocean/blob/master/codility/prefix-sums/countdiv.js)
++ [PassingCars](https://github.com/jeffminsungkim/ocean/blob/master/codility/prefix-sums/passingcars.js)
 
 **[:rocket: Back to Codility Lessons](#codility-lessons)**
 
@@ -87,7 +88,7 @@ Needs to be implemented.
 
 ###### Data Structures > Trees
 
-+ [Tree: Preorder Traversal](https://github.com/jeffminsungkim/ocean/blob/master/hackerrank/datastructure/trees/preorder-traversal.java)
++ [Tree: Preorder Traversal](https://github.com/jeffminsungkim/ocean/blob/master/hackerrank/datastructure/trees/tree-preorder-traversal.py)
 + [Tree: Height of a Binary Tree](https://github.com/jeffminsungkim/ocean/blob/master/hackerrank/datastructure/trees/height-of-a-binary-tree.py)
 
 ###### Data Structures > Stacks
