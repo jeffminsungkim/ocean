@@ -29,11 +29,12 @@ LinkedList.prototype.prepend = function(data) {
 };
 
 LinkedList.prototype.remove = function(data) {
-    if (this.head == null) return;
-    if (this.head.data === data) {
-        this.head = this.head.next;
-    }
     var current = this.head;
+    if (current == null) return;
+    if (current.data === data) {
+        current = current.next;
+    }
+    
     while (current.next != null) {
         while (current.next.data === data) {
             current.next = current.next.next;
