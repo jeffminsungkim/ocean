@@ -1,4 +1,4 @@
-# ocean :ocean: ![Language](https://img.shields.io/badge/language-Python%20%2F%20JavaScript-ff69b4.svg?style=flat-square) [![Maintainability](https://api.codeclimate.com/v1/badges/75e4a355d4eccf83eeee/maintainability)](https://codeclimate.com/github/jeffminsungkim/ocean/maintainability) [![GitHub last commit](https://img.shields.io/github/last-commit/jeffminsungkim/ocean.svg?branch=master&style=flat-square)](https://github.com/jeffminsungkim/ocean/commits/master) [![GitHub issues by-label](https://img.shields.io/github/issues/jeffminsungkim/ocean/enhancement.svg?style=flat-square)](https://github.com/jeffminsungkim/ocean/labels/enhancement) [![License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://github.com/jeffminsungkim/ocean/blob/master/LICENSE)
+# ocean :ocean: ![Language](https://img.shields.io/badge/language-Python%20%2F%20JavaScript-ff69b4.svg?style=flat-square) [![Maintainability](https://api.codeclimate.com/v1/badges/75e4a355d4eccf83eeee/maintainability)](https://codeclimate.com/github/jeffminsungkim/ocean/maintainability) [![GitHub last commit](https://img.shields.io/github/last-commit/jeffminsungkim/ocean.svg?branch=master&style=flat-square)](https://github.com/jeffminsungkim/ocean/commits/master) [![GitHub issues by-label](https://img.shields.io/github/issues/jeffminsungkim/ocean.svg?style=flat-square)](https://github.com/jeffminsungkim/ocean/issues) [![License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://github.com/jeffminsungkim/ocean/blob/master/LICENSE)
 
 ## Brief Introduction
 
@@ -44,7 +44,7 @@ Needs to be implemented.
 
 ###### Data Structures
 
-+ [LinkedList](https://github.com/jeffminsungkim/ocean/blob/master/languages/javascript/datastructures/linkedlist.js)
++ [LinkedList](https://github.com/jeffminsungkim/ocean/blob/master/languages/javascript/datastructures/linked-list.js)
 + [Stack](https://github.com/jeffminsungkim/ocean/blob/master/languages/javascript/datastructures/stack.js)
 
 ###### Algorithms
@@ -72,6 +72,7 @@ Needs to be implemented.
 + [MaxCounters](https://github.com/jeffminsungkim/ocean/blob/master/codility/counting-elements/maxcounters.js)
 + [CountDiv](https://github.com/jeffminsungkim/ocean/blob/master/codility/prefix-sums/countdiv.js)
 + [PassingCars](https://github.com/jeffminsungkim/ocean/blob/master/codility/prefix-sums/passingcars.js)
++ [MinAvgTwoSlice](https://github.com/jeffminsungkim/ocean/blob/master/codility/prefix-sums/min-avg-two-slice.js)
 
 **[:rocket: Back to Codility Lessons](#codility-lessons)**
 
