@@ -46,6 +46,7 @@ Needs to be implemented.
 
 + [LinkedList](https://github.com/jeffminsungkim/ocean/blob/master/languages/javascript/datastructures/linked-list.js)
 + [Stack](https://github.com/jeffminsungkim/ocean/blob/master/languages/javascript/datastructures/stack.js)
++ [Queue](https://github.com/jeffminsungkim/ocean/blob/master/languages/javascript/datastructures/queue.js)
 
 ###### Algorithms
 Needs to be implemented.
