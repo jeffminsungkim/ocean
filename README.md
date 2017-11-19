@@ -13,8 +13,8 @@
     <br>
     <br>
     |
-    <b><a href="https://github.com/jeffminsungkim/cheatsheet/blob/master/WEB.md">NOTES</a></b> |
-    <b><a href="https://github.com/jeffminsungkim/cheatsheet/blob/master/EXERCISE.md">EXERCISES</a></b> |
+    <b><a href="https://github.com/jeffminsungkim/ocean/blob/master/WEB.md">NOTES</a></b> |
+    <b><a href="https://github.com/jeffminsungkim/ocean/blob/master/EXERCISE.md">EXERCISES</a></b> |
     <br>
 </p>
 
