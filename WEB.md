@@ -367,6 +367,94 @@ If an application is slow, crashes often, or constantly throws errors at users, 
 
 ## Django
 
+## Django REST Framework
+
+Django REST framework offers a couple of helper classes we can use to create our API endpoints.
+The API view and the Viewset. Both waysa re slightly different and offer their own benefits.
+The APIView is the most basic type of view we can use to build API. It enables us to describe the logic which makes our API endpoint.
+
++ APIView
++ Viewset
+
+#### What are APIViews?
+
+함수에 표준 HTTP 메서드를 사용한다.
+
+An API view allows us to define functions that match the standard HTTP methods.
+
++ HTTP GET - 하나 이상의 항목을 가져옴
++ HTTP POST - 항목을 생성
++ HTTP PUT - 항목을 업데이트
++ HTTP PATCH - 항목을 부분적으로 업데이트
++ HTTP DELETE - 항목을 제거
+
+API URL을 통해 각 HTTP 메서드에 대한 함수를 사용자 정의 할 수 있게 함으로써 APIView를 통해 애플리케이션 로직을 최대한 제어 할 수 있다.
+데이터베이스의 개체를 단순히 업데이트하는 것과 약간 다른 작업을 해야 하는 경우에 사용하기 적합하다. 다른 API 호출 또는 로컬 파일 작업 등.
+
+By allowing us to customize the function for each HTTP method on our API URL, API views give us the most control over our application logic.
+This is perfect in cases where you need to do something a little bit different from simply updating objects in the database, 
+such as calling other APIs or working with local files.
+
+#### When to use APIViews?
+
+언제 사용하느냐는 개인에 취향에 달렸지만 아래 같은 경우에 사용하면 더 알맞을 수도 있다.
+
+Some examples of when to use an APIView:
+
++ You need the full control over the logic
+    - 예를 들면, 매우 복잡한 알고리즘을 running 하거나 여러 데이터 소스를 하나의 API call에서 업데이트 해야 하는 경우
++ Processing files and rendering a synchronous response
++ Calling other APIs/services in the same request
++ Accesing local files or data
+
+다음은 APIView를 사용한 코드:
+
+views.py
+```python
+from rest_framework.views import APIView
+from rest_framework.response import Response
+
+class HelloApiView(APIView):
+    """Test API View."""
+
+    serializer_class = serializers.HelloSerializer
+
+    def get(self, request, format=None):
+        """Return a list of APIView features."""
+        an_apiview = [
+            'Uses HTTP methods as function (get, post, patch, put, delete)',
+            'It is similar to a traditional Django view',
+            'Gives you the most control over your logic',
+            'Is mapped manually to URLs'
+        ]
+
+        return Response({'message': 'Hello!', 'an_apiview': an_apiview})
+```
+
+Root urls.py
+```python
+from django.conf.urls import url
+from django.conf.urls import include
+
+urlpatterns = [
+    url(r'^api/', include('AppName.urls'))
+]
+```
+API를 호출하게되면 root 프로젝트 urls.py 파일을 먼저 확인한 후 주소창 시작에 api가 있는지 감지하고 위의 코드처럼 존재한다면 해당 App의 urls.py 모듈을 확인한다.
+ 
+App urls.py
+```python
+from django.conf.urls import url
+from . import views
+
+urlpatterns = [
+    url(r'^hello-view/', views.HelloApiView.as_view()),
+]
+```
+그다음 URL의 /api 다음에 오는 부분인 hello-view를 확인한 후 `views.HelloApiView.as_view()`의 결과를 랜더링한 후 화면에 보여준다.
+
+*App을 추가할 때마다 urls.py을 별도로 생성해서 관리해주어야 한다.*
+
 #### AJAX and the CSRF Token
 
 AJAX 코드를 만들 때 장고의 CSRF protection은 매우 거슬리는 존재가 된다. 장고에서 AJAX를 사용하는 경우 CSRF 토큰 유효성 검사를 trigger 하는 동안 API에 데이터를 POST, PATCH 또는 DELETE 하는 기능이
