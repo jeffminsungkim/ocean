@@ -1,4 +1,4 @@
-## Table of Contents
+# Table of Contents
 
 1. **[Programming Languages](#programming-languages)**
     - **[Python](#python)**
