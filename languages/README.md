@@ -61,3 +61,4 @@
 + [Algorithms List - GeeksforGeeks](http://www.geeksforgeeks.org/fundamentals-of-algorithms/)
 + [Intro to Algorithms - Khan Academy](https://www.khanacademy.org/computing/computer-science/algorithms)
 + [Awesome-Algorithms](https://github.com/tayllan/awesome-algorithms)
++ [Tech Interview handbook - Yangshun Tay](https://github.com/yangshun/tech-interview-handbook/blob/master/algorithms/README.md)
