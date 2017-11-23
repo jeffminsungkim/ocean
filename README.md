@@ -7,12 +7,12 @@
     I spend my time for learning awesome stuff that I do not even know before. Even though it gives me a slight headache from time to time,:satisfied: I find genuine pleasure in thriving beyond the challenges I face from solving problems.
     <br>
     <b>This repository consists of problem-solving exercises and algorithm practices with various programming languages.</b>
-    <br>If there's any mistake or have a better solution for code, feel free to share your thoughts and may open the <a href="https://github.com/jeffminsungkim/ocean/issues">issues</a>. <a href="http://www.sherv.net/"><img alt="SOS Hand" width=31 height=41 src="http://www.sherv.net/cm/emoticons/hand-gestures/sos-hand-smiley-emoticon.gif"></a>
+    <br>If there's any mistake or have a better solution for code, feel free to share your thoughts and may open <a href="https://github.com/jeffminsungkim/ocean/issues">issues</a>. <a href="http://www.sherv.net/"><img alt="SOS Hand" width=31 height=41 src="http://www.sherv.net/cm/emoticons/hand-gestures/sos-hand-smiley-emoticon.gif"></a>
     <br>
     <br>
     |
     <b><a href="https://github.com/jeffminsungkim/ocean/blob/master/web/README.md">Personal Summary Notes</a></b> |
-    <b><a href="https://github.com/jeffminsungkim/ocean/blob/master/challenges/README.md">Competitive Programming Challenge</a></b> |
+    <b><a href="https://github.com/jeffminsungkim/ocean/blob/master/challenges/README.md">Competitive Programming Challenges</a></b> |
     <b><a href="https://github.com/jeffminsungkim/ocean/blob/master/languages/README.md">Algorithm Practices</a></b> |
     <br>
 </p>
