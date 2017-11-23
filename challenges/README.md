@@ -1,43 +1,4 @@
-# Table of Contents
-
-1. **[Programming Languages](#programming-languages)**
-    - **[Python](#python)**
-    - **[JavaScript](#javascript)**
-
-1. **[SOLVED Problems](#solved-problems)**
-    - **[Codility Lessons](#codility-lessons)**
-    - **[HackerRank Challenges](#hackerrank-challenges)**
-
-1. **[References](#references)**
-    - **[Competitive Programming Challenges](#competitive-programming-challenges)**
-
----
-
-## Programming Languages
-
-#### Python
-
-###### Data Structures
-
-+ [LinkedList](https://github.com/jeffminsungkim/ocean/blob/master/languages/python/datastructures/linkedlist.py) 
-
-###### Algorithms
-Needs to be implemented.
-
-#### JavaScript
-
-###### Data Structures
-
-+ [LinkedList](https://github.com/jeffminsungkim/ocean/blob/master/languages/javascript/datastructures/linked-list.js)
-+ [Stack](https://github.com/jeffminsungkim/ocean/blob/master/languages/javascript/datastructures/stack.js)
-+ [Queue](https://github.com/jeffminsungkim/ocean/blob/master/languages/javascript/datastructures/queue.js)
-
-###### Algorithms
-Needs to be implemented.
-
----
-
-## **SOLVED** Problems
+# Solved Problems
 
 #### Codility Lessons
 
@@ -112,17 +73,9 @@ Needs to be implemented.
 
 ---
 
-## References
+### References
 
-#### Competitive Programming Challenges
+###### Competitive Programming Challenges
 
 + [HackerRank](https://www.hackerrank.com/)
 + [Codility](https://codility.com/programmers/)
-
----
-
-**[:rocket: Back to Table of Contents](#table-of-contents)**
-
-# Author
-
-© 2017  **Minsung Kim**.  *Written by - [JeffMinsungKim](https://github.com/jeffminsungkim)*

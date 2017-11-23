@@ -455,6 +455,8 @@ urlpatterns = [
 
 *App을 추가할 때마다 urls.py을 별도로 생성해서 관리해주어야 한다.*
 
+#### What are Viewsets?
+
 #### AJAX and the CSRF Token
 
 AJAX 코드를 만들 때 장고의 CSRF protection은 매우 거슬리는 존재가 된다. 장고에서 AJAX를 사용하는 경우 CSRF 토큰 유효성 검사를 trigger 하는 동안 API에 데이터를 POST, PATCH 또는 DELETE 하는 기능이
