@@ -11,8 +11,7 @@
     <br>
     <br>
     |
-    <b><a href="https://github.com/jeffminsungkim/ocean/blob/master/web/README.md">Personal Summary Notes</a></b> |
-    <b><a href="https://github.com/jeffminsungkim/ocean/blob/master/challenges/README.md">Competitive Programming Challenges</a></b> |
+    <b><a href="https://github.com/jeffminsungkim/ocean/blob/master/challenges/README.md">Programming Challenges</a></b> |
     <b><a href="https://github.com/jeffminsungkim/ocean/blob/master/languages/README.md">Algorithm Practices</a></b> |
     <br>
 </p>
@@ -21,5 +20,5 @@
     <b>Inspired by</b><span>✨ </span>
     <br>
     <a href="https://github.com/iiitv/algos">IIIT Vadodara</a> |
-    <a href="https://github.com/yangshun/tech-interview-handbook">Yangshun Tay</a> |
+    <a href="https://github.com/yangshun/tech-interview-handbook">Yangshun Tay</a>
 </p>
