@@ -1,4 +1,4 @@
-# ocean :ocean: ![Language](https://img.shields.io/badge/language-Python%20%2F%20JavaScript-ff69b4.svg?style=flat-square) [![Maintainability](https://api.codeclimate.com/v1/badges/75e4a355d4eccf83eeee/maintainability)](https://codeclimate.com/github/jeffminsungkim/ocean/maintainability) [![GitHub last commit](https://img.shields.io/github/last-commit/jeffminsungkim/ocean.svg?branch=master&style=flat-square)](https://github.com/jeffminsungkim/ocean/commits/master) [![GitHub issues by-label](https://img.shields.io/github/issues/jeffminsungkim/ocean.svg?style=flat-square)](https://github.com/jeffminsungkim/ocean/issues) [![License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://github.com/jeffminsungkim/ocean/blob/master/LICENSE)
+# ocean :ocean: ![Language](https://img.shields.io/badge/language-Python%20%2F%20JavaScript-ff69b4.svg?style=flat-square) [![Maintainability](https://api.codeclimate.com/v1/badges/75e4a355d4eccf83eeee/maintainability)](https://codeclimate.com/github/jeffminsungkim/ocean/maintainability) [![GitHub last commit](https://img.shields.io/github/last-commit/jeffminsungkim/ocean.svg?branch=master&style=flat-square)](https://github.com/jeffminsungkim/ocean/commits/master) [![License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://github.com/jeffminsungkim/ocean/blob/master/LICENSE)
 
 <p align="center">
     <br>
@@ -19,6 +19,6 @@
 <p align="center">
     <b>Inspired by</b><span>✨ </span>
     <br>
-    <a href="https://github.com/iiitv/algos">IIIT Vadodara</a> |
-    <a href="https://github.com/yangshun/tech-interview-handbook">Yangshun Tay</a>
+    <br>
+    <a href="https://github.com/iiitv/algos">IIIT Vadodara</a>
 </p>
