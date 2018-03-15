@@ -1,6 +1,7 @@
 *.sublime-project
 *.sublime-workspace
 .DS_Store
+.editorconfig
 package.json
 test/**
 web/
