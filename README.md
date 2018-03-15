@@ -17,8 +17,5 @@
 </p>
 <br>
 <p align="center">
-    <b>Inspired by</b><span>✨ </span>
-    <br>
-    <br>
-    <a href="https://github.com/iiitv/algos">IIIT Vadodara</a>
+    <b>Inspired by <a href="https://github.com/iiitv/algos"> IIIT Vadodara</a></b>&nbsp;<span>✨ </span>    
 </p>
