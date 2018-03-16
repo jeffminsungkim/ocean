@@ -33,7 +33,7 @@
 | [Euclidean Algorithm](https://en.wikipedia.org/wiki/Euclidean_algorithm) | [⚠️]() | [⚠️]() |
 | [Exponentiation by Squaring](https://en.wikipedia.org/wiki/Exponentiation_by_squaring) | [⚠️]() | [⚠️]() |
 | [Heap Sort](https://en.wikipedia.org/wiki/Heapsort) | [⚠️]() | [⚠️]() |
-| [Insertion Sort](https://en.wikipedia.org/wiki/Insertion_sort) | [⚠️]() | [⚠️]() |
+| [Insertion Sort](https://en.wikipedia.org/wiki/Insertion_sort) | [✅](https://github.com/jeffminsungkim/ocean/blob/master/languages/javascript/algorithms/insertionSort.js) | [⚠️]() |
 | [k-NN](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm) | [⚠️]() | [⚠️]() |
 | [Knuth–Morris–Pratt (KMP) Algorithm](https://en.wikipedia.org/wiki/Knuth%E2%80%93Morris%E2%80%93Pratt_algorithm) | [⚠️]() | [⚠️]() |
 | [Largest Sum Contiguous Subarray](http://www.geeksforgeeks.org/largest-sum-contiguous-subarray/) | [⚠️]() | [⚠️]() |
