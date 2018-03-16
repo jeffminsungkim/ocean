@@ -1,5 +1,5 @@
 const linearSearch = (arr, value) => {
-  for (let i in arr) if (arr[i] === value) return Number(i);
+  for (const [i, val] of arr.entries()) if (val === value) return i;
   return -1;
 };
 
