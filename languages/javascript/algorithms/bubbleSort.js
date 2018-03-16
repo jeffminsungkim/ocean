@@ -24,9 +24,9 @@ const bubbleSort = (arr) => {
 
 const testMyBubbleSortExecTime = () => {
   console.log('START bubbleSort()');
-	console.time('bubbleSort');
+  console.time('bubbleSort');
   bubbleSort(arr);
-	console.timeEnd('bubbleSort');
+  console.timeEnd('bubbleSort');
 };
 
 pushRandomNumbers();
