@@ -1,11 +1,11 @@
 const arr = [];
 const pushRandomNumbers = () => {
-	let idx = 1;
+  let idx = 1;
   while (idx <= 10000) {
-		arr.push(Math.floor(Math.random() * 1000) + 1);
-		idx++;
-	}
-	return arr;
+    arr.push(Math.floor(Math.random() * 1000) + 1);
+    idx++;
+  }
+  return arr;
 };
 
 const bubbleSort = (arr) => {
