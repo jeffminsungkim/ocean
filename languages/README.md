@@ -24,7 +24,7 @@
 | Algorithm | JavaScript | Python |
 |:-------------:|:-------------:|:-------------:|
 | [Binary Search](https://en.wikipedia.org/wiki/Binary_search_algorithm) | [✅](https://github.com/jeffminsungkim/ocean/blob/master/languages/javascript/algorithms/binarySearch.js) | [⚠️]() |
-| [Bubble Sort](https://en.wikipedia.org/wiki/Bubble_sort) | [⚠️]() | [⚠️]() |
+| [Bubble Sort](https://en.wikipedia.org/wiki/Bubble_sort) | [✅](https://github.com/jeffminsungkim/ocean/blob/master/languages/javascript/algorithms/bubbleSort.js) | [⚠️]() |
 | [Bucket Sort](http://www.cdn.geeksforgeeks.org/bucket-sort-2/) | [⚠️]() | [⚠️]() |
 | [Coin Change](http://www.algorithmist.com/index.php/Coin_Change) | [⚠️]() | [⚠️]() |
 | [Counting Sort](http://www.geeksforgeeks.org/counting-sort/) | [⚠️]() | [⚠️]() |
