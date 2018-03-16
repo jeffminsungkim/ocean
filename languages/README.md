@@ -50,7 +50,7 @@
 | [Quick Sort](https://en.wikipedia.org/wiki/Quicksort) | [⚠️]() | [⚠️]() |
 | [Radix Sort](http://www.geeksforgeeks.org/radix-sort/) | [⚠️]() | [⚠️]() |
 | [Rod Cutting Problem](http://www.geeksforgeeks.org/dynamic-programming-set-13-cutting-a-rod/) | [⚠️]() | [⚠️]() |
-| [Selection Sort](http://www.geeksforgeeks.org/selection-sort/) | [⚠️]() | [⚠️]() |
+| [Selection Sort](http://www.geeksforgeeks.org/selection-sort/) | [✅](https://github.com/jeffminsungkim/ocean/blob/master/languages/javascript/algorithms/selectionSort.js) | [⚠️]() |
 | [Shell Sort](https://en.wikipedia.org/wiki/Shellsort) | [⚠️]() | [⚠️]() |
 | [Sieve of Eratosthenes](https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes) | [⚠️]() | [⚠️]() |
 | [Tim Sort](http://www.geeksforgeeks.org/timsort/) | [⚠️]() | [⚠️]() |
