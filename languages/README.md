@@ -38,7 +38,7 @@
 | [Knuth–Morris–Pratt (KMP) Algorithm](https://en.wikipedia.org/wiki/Knuth%E2%80%93Morris%E2%80%93Pratt_algorithm) | [⚠️]() | [⚠️]() |
 | [Largest Sum Contiguous Subarray](http://www.geeksforgeeks.org/largest-sum-contiguous-subarray/) | [⚠️]() | [⚠️]() |
 | [Linear Regression](https://en.wikipedia.org/wiki/Linear_regression) | [⚠️]() | [⚠️]() |
-| [Linear Search](https://en.wikipedia.org/wiki/Linear_search) | [⚠️]() | [⚠️]() |
+| [Linear Search](https://en.wikipedia.org/wiki/Linear_search) | [✅](https://github.com/jeffminsungkim/ocean/blob/master/languages/javascript/algorithms/linearSearch.js) | [⚠️]() |
 | [Longest Common Subsequence](http://www.geeksforgeeks.org/longest-common-subsequence/) | [⚠️]() | [⚠️]() |
 | [Longest Palindromic Substring](http://www.geeksforgeeks.org/longest-palindrome-substring-set-1/) | [⚠️]() | [⚠️]() |
 | [Merge Sort](https://www.khanacademy.org/computing/computer-science/algorithms/merge-sort/a/overview-of-merge-sort) | [⚠️]() | [⚠️]() |
