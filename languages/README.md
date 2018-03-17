@@ -47,7 +47,7 @@
 | [Prime Factor](https://en.wikipedia.org/wiki/Prime_factor) | [⚠️]() | [⚠️]() |
 | [Prims](https://en.wikipedia.org/wiki/Prim%27s_algorithm) | [⚠️]() | [⚠️]() |
 | [Quick Select](https://en.wikipedia.org/wiki/Quickselect) | [⚠️]() | [⚠️]() |
-| [Quick Sort](https://en.wikipedia.org/wiki/Quicksort) | [⚠️]() | [⚠️]() |
+| [Quick Sort](https://en.wikipedia.org/wiki/Quicksort) | [✅](https://github.com/jeffminsungkim/ocean/blob/master/languages/javascript/algorithms/quickSort.js) | [⚠️]() |
 | [Radix Sort](http://www.geeksforgeeks.org/radix-sort/) | [⚠️]() | [⚠️]() |
 | [Rod Cutting Problem](http://www.geeksforgeeks.org/dynamic-programming-set-13-cutting-a-rod/) | [⚠️]() | [⚠️]() |
 | [Selection Sort](http://www.geeksforgeeks.org/selection-sort/) | [✅](https://github.com/jeffminsungkim/ocean/blob/master/languages/javascript/algorithms/selectionSort.js) | [⚠️]() |
