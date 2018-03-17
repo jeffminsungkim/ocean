@@ -16,6 +16,7 @@
 + [PassingCars](https://github.com/jeffminsungkim/ocean/blob/master/challenges/codility/prefix-sums/passingcars.js)
 + [MinAvgTwoSlice](https://github.com/jeffminsungkim/ocean/blob/master/challenges/codility/prefix-sums/min-avg-two-slice.js)
 + [Triangle](https://github.com/jeffminsungkim/ocean/blob/master/challenges/codility/sorting/triangle.js)
++ [Distinct](https://github.com/jeffminsungkim/ocean/blob/master/challenges/codility/sorting/distinct.js)
 
 #### HackerRank Challenges
 
