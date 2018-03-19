@@ -25,8 +25,8 @@ function solution(A) {
         if (num > 0) {
           max *= num;
           counter++;
-          if (counter === 3) return max;
         }
+        if (counter === 3) return max;
       } else {
         if (i < 2) {
           max *= num;
