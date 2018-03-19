@@ -1,12 +1,3 @@
-
-const generateRandomNumbers = () => {
-  const arr = [];
-  const TEN_MILLION = 10000000;
-
-  for (let i = 0; i < TEN_MILLION; i++) arr.push(Math.floor(Math.random() * 1000) + 1);
-  return arr;
-};
-
 const quickSort = (arr, start = 0, end = arr.length - 1) => {
 
   if (arr.length > 1) {
@@ -38,12 +29,3 @@ const swap = (arr, leftIndex, rightIndex) => {
   arr[leftIndex] = arr[rightIndex];
   arr[rightIndex] = temp;
 };
-
-const testQuickeSortExecTime = () => {
-  console.log('START quickSort()');
-  console.time('quickSort');
-  quickSort(generateRandomNumbers());
-  console.timeEnd('quickSort');
-};
-
-testQuickeSortExecTime();
