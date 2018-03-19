@@ -1,6 +1,6 @@
 // Details: https://app.codility.com/programmers/lessons/6-sorting/max_product_of_three/
 
-function findMaxProductOfThree(A) {
+function solution(A) {
   let totalPositiveInteger = 0;
   let totalNegativeInteger = 0;
   let totalZero = 0;
