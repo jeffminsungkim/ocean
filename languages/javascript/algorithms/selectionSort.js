@@ -1,10 +1,8 @@
-const arr = [];
 const pushRandomNumbers = () => {
-  let idx = 1;
-  while (idx <= 100000) {
-    arr.push(Math.floor(Math.random() * 1000) + 1);
-    idx++;
-  }
+  const arr = [];
+  const TEN_MILLION = 10000000;
+
+  for (let i = 0; i < TEN_MILLION; i++) arr.push(Math.floor(Math.random() * 1000) + 1);
   return arr;
 };
 
@@ -25,9 +23,8 @@ const selectionSort = (arr) => {
 const testSelectionSortExecTime = () => {
   console.log('START selectionSort()');
   console.time('selectionSort');
-  selectionSort(arr);
+  selectionSort(pushRandomNumbers());
   console.timeEnd('selectionSort');
 };
 
-pushRandomNumbers();
 testSelectionSortExecTime();

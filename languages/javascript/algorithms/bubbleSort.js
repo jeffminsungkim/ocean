@@ -1,10 +1,8 @@
-const arr = [];
 const pushRandomNumbers = () => {
-  let idx = 1;
-  while (idx <= 10000) {
-    arr.push(Math.floor(Math.random() * 1000) + 1);
-    idx++;
-  }
+  const arr = [];
+  const TEN_MILLION = 10000000;
+
+  for (let i = 0; i < TEN_MILLION; i++) arr.push(Math.floor(Math.random() * 1000) + 1);
   return arr;
 };
 
@@ -25,9 +23,8 @@ const bubbleSort = (arr) => {
 const testMyBubbleSortExecTime = () => {
   console.log('START bubbleSort()');
   console.time('bubbleSort');
-  bubbleSort(arr);
+  bubbleSort(pushRandomNumbers());
   console.timeEnd('bubbleSort');
 };
 
-pushRandomNumbers();
 testMyBubbleSortExecTime();
