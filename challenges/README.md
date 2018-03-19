@@ -17,6 +17,7 @@
 + [MinAvgTwoSlice](https://github.com/jeffminsungkim/ocean/blob/master/challenges/codility/prefix-sums/min-avg-two-slice.js)
 + [Triangle](https://github.com/jeffminsungkim/ocean/blob/master/challenges/codility/sorting/triangle.js)
 + [Distinct](https://github.com/jeffminsungkim/ocean/blob/master/challenges/codility/sorting/distinct.js)
++ [MaxProductOfThree](https://github.com/jeffminsungkim/ocean/blob/master/challenges/codility/sorting/max-product-of-three.js)
 
 #### HackerRank Challenges
 
