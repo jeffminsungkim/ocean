@@ -28,12 +28,9 @@ function solution(A) {
         }
         if (counter === 3) return max;
       } else {
-        if (i < 2) {
-          max *= num;
-        } else {
-          if (max < 0 && num < 0) return max *= num;
-          if (max > 0 && num > 0) return max *= num;
-        }
+        if (i < 2) max *= num;
+        if (i >= 2 && max < 0 && num < 0) return max *= num;
+        if (i >= 2 && max > 0 && num > 0) return max *= num;
       }
     }
   }
