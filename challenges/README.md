@@ -18,6 +18,7 @@
 + [Triangle](https://github.com/jeffminsungkim/ocean/blob/master/challenges/codility/sorting/triangle.js)
 + [Distinct](https://github.com/jeffminsungkim/ocean/blob/master/challenges/codility/sorting/distinct.js)
 + [MaxProductOfThree](https://github.com/jeffminsungkim/ocean/blob/master/challenges/codility/sorting/max-product-of-three.js)
++ [StoneWall](https://github.com/jeffminsungkim/ocean/blob/master/challenges/codility/stacks-and-queue/stonewall.js)
 
 #### HackerRank Challenges
 
