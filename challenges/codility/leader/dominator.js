@@ -31,3 +31,7 @@ const countElementOccurrence = (accumulator, value) => {
 
 const findDominator = element => Number(Object.keys(element).reduce((a, b) => element[a] > element[b] ? a : b ));
 
+module.exports = {
+  solution: solution,
+  findDominator: findDominator
+};
