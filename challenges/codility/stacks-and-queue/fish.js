@@ -23,6 +23,10 @@ function solution(A, B) {
         peacefulRiver.push(lastFish);
         i++;
       }
+      if (A[i] === lastFishSize) {
+        peacefulRiver.push(i);
+        i++;
+      }
       if (peacefulRiver.length === 0) {
         peacefulRiver.push(i);
         i++;
@@ -32,10 +36,4 @@ function solution(A, B) {
   return peacefulRiver.length;
 }
 
-// const A = [4, 3, 2, 1, 5];
-// const B = [0, 1, 0, 0, 0];
-
-const A = [0, 1];
-const B = [1, 1];
-
-console.log("Left:", solution(A, B));
+module.exports = solution;
