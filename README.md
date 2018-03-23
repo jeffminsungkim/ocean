@@ -8,7 +8,8 @@
     <br>
     <br>
     This repository consists of problem-solving exercises and algorithm practices.
-    <br>If there's any mistake or have a better solution for code, feel free to share your thoughts and may open <a href="https://github.com/jeffminsungkim/ocean/issues">issues</a>. <a href="http://www.sherv.net/"><img alt="SOS Hand" width=31 height=41 src="http://www.sherv.net/cm/emoticons/hand-gestures/sos-hand-smiley-emoticon.gif"></a>
+    If there's any mistake or have a better solution for code, feel free to share your thoughts and may open 
+    <a href="https://github.com/jeffminsungkim/ocean/issues">issues</a>. <a href="http://www.sherv.net/"><img alt="SOS Hand" width=31 height=41 src="http://www.sherv.net/cm/emoticons/hand-gestures/sos-hand-smiley-emoticon.gif"></a>
     <br>
     <br>
     |
