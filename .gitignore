@@ -2,6 +2,6 @@
 *.sublime-workspace
 .DS_Store
 .editorconfig
-package.json
 test/**
 web/
+node_modules/**
