@@ -2,7 +2,6 @@
 *.sublime-workspace
 .DS_Store
 .editorconfig
-test/**
 web/
 node_modules/**
 package-lock.json
