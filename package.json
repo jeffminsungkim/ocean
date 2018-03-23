@@ -1,0 +1,18 @@
+{
+  "name": "ocean",
+  "version": "0.0.1",
+  "description": "Code playground under the ocean",
+  "main": "",
+  "license": "MIT",
+  "author": {
+    "name": "JeffMinsungKim"
+  },
+  "scripts": {
+    "test": "mocha \"test/**/*.spec.js\""
+  },
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.0.5"
+  },
+  "dependencies": {}
+}
