@@ -5,11 +5,11 @@ describe("Brackets: Determine whether a given string of parentheses is properly 
   const properlyNestedStr = "{([])}";
   const improperlyNestedStr = "{[)}";
 
-  it (`should return 1 if a given string looks like ${properlyNestedStr}`, () => {
+  it(`should return 1 if a given string looks like ${properlyNestedStr}`, () => {
     assert.equal(solution(properlyNestedStr), 1);
   });
 
-  it (`should return 0 if a given string looks like ${improperlyNestedStr}`, () => {
+  it(`should return 0 if a given string looks like ${improperlyNestedStr}`, () => {
     assert.equal(solution(improperlyNestedStr), 0);
   });
 });
